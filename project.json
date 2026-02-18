@@ -1,0 +1,8 @@
+{
+    "projects": [
+        {
+            "slug": "football-game",
+            "file": "projects/football-game.json"
+        }
+    ]
+}
