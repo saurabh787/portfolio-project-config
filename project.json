@@ -7,6 +7,10 @@
         {
             "slug": "multiplayer-game-framework",
             "file": "projects/multi_player_game_server.json"
+        },
+        {
+            "slug": "slot-sweeper",
+            "file": "projects/slot_sweeper.json"
         }
     ]
 }

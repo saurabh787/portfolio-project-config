@@ -1,0 +1,27 @@
+{
+    "title": "Dynamic Blog Platform",
+    "slug": "dynamic-blog-platform",
+    "shortDescription": "A dynamic blog platform that allows users to create, edit, and manage blog posts with a responsive interface.",
+    "fullDescription": "Dynamic Blog Platform is a full-stack web application that enables users to create, publish, edit, and manage blog posts through an intuitive dashboard. The platform supports dynamic content rendering, RESTful API integration, and responsive UI for seamless reading and writing experiences. It includes features such as post creation, editing, deletion, and structured content management. The project demonstrates my ability to design scalable frontend architectures, manage application state, integrate backend APIs, and build interactive user-focused web applications.",
+    "tech": [
+        "React.js",
+        "JavaScript",
+        "HTML5",
+        "CSS3",
+        "REST APIs",
+        "Dynamic Content Management"
+    ],
+    "category": "Full Stack Development",
+    "featured": false,
+    "order": 6,
+    "coverImage": "assets/blog-cover.png",
+    "gallery": [
+        "assets/blog-1.png",
+        "assets/blog-2.png",
+        "assets/blog-3.png"
+    ],
+    "liveUrl": "https://github.com/saurabh787/dynamic_blog_backend",
+    "githubUrl": "https://github.com/saurabh787/dynamic_blog_backend",
+    "status": "Completed",
+    "year": 2025
+}

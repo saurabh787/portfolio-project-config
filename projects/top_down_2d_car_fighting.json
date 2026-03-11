@@ -1,0 +1,27 @@
+{
+    "title": "Top-Down 2D Car Fighting Game",
+    "slug": "topdown-car-fighting-game",
+    "shortDescription": "A fast-paced top-down car combat game where players battle using weaponized vehicles.",
+    "fullDescription": "This project is a top-down 2D car combat game developed in Unity where players control armed vehicles and engage in intense battles against enemies. The game includes physics-based driving mechanics, shooting systems, enemy AI, health systems, and dynamic combat gameplay. It demonstrates my ability to implement vehicle physics, combat mechanics, and responsive controls using Unity’s 2D tools and scripting.",
+    "tech": [
+        "Unity",
+        "C#",
+        "Unity 2D Physics",
+        "Game AI",
+        "Vehicle Mechanics",
+        "Combat Systems"
+    ],
+    "category": "Game Development",
+    "featured": false,
+    "order": 4,
+    "coverImage": "assets/car-combat-cover.png",
+    "gallery": [
+        "assets/car-combat-1.png",
+        "assets/car-combat-2.png",
+        "assets/car-combat-3.png"
+    ],
+    "liveUrl": "https://github.com/Vivek2680/TopDown2D",
+    "githubUrl": "https://github.com/Vivek2680/TopDown2D",
+    "status": "Completed",
+    "year": 2025
+}

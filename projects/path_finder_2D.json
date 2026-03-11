@@ -1,0 +1,27 @@
+{
+    "title": "Path Finder",
+    "slug": "path-finder-game",
+    "shortDescription": "A top-down 2D sci-fi survival shooter where players explore dark mazes and survive against enemies.",
+    "fullDescription": "Path Finder is a top-down 2D sci-fi survival game built in Unity where players explore procedurally generated dark environments while searching for keys and escape routes. The game features fog of war, limited light radius, enemy AI, shooting mechanics with limited ammo, and dynamic level generation. This project highlights my skills in procedural generation, AI behavior systems, and immersive gameplay mechanics in Unity.",
+    "tech": [
+        "Unity",
+        "C#",
+        "Procedural Generation",
+        "Game AI",
+        "Lighting System",
+        "Top-Down Shooter Mechanics"
+    ],
+    "category": "Game Development",
+    "featured": true,
+    "order": 5,
+    "coverImage": "assets/pathfinder-cover.png",
+    "gallery": [
+        "assets/pathfinder-1.png",
+        "assets/pathfinder-2.png",
+        "assets/pathfinder-3.png"
+    ],
+    "liveUrl": "https://github.com/saurabh787/pathFinder",
+    "githubUrl": "https://github.com/saurabh787/pathFinder",
+    "status": "Completed",
+    "year": 2025
+}

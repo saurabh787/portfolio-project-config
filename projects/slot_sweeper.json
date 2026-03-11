@@ -1,0 +1,27 @@
+{
+    "title": "Slot Sweeper",
+    "slug": "slot-sweeper",
+    "shortDescription": "A scheduling platform that allows users to book calendar slots and exchange them with other users.",
+    "fullDescription": "Slot Sweeper is a web application that allows users to book available time slots through an interactive calendar interface. The platform also enables users to request and exchange booked slots with other users, making scheduling more flexible and collaborative. The project demonstrates my ability to build responsive front-end interfaces, manage application state, integrate APIs, and implement scheduling workflows for real-world use cases.",
+    "tech": [
+        "React.js",
+        "JavaScript",
+        "HTML5",
+        "CSS3",
+        "REST APIs",
+        "Calendar Scheduling Logic"
+    ],
+    "category": "Full Stack Development",
+    "featured": false,
+    "order": 3,
+    "coverImage": "assets/slot-sweeper-cover.png",
+    "gallery": [
+        "assets/slot-sweeper-1.png",
+        "assets/slot-sweeper-2.png",
+        "assets/slot-sweeper-3.png"
+    ],
+    "liveUrl": "https://github.com/saurabh787/slot_sweepere",
+    "githubUrl": "https://github.com/saurabh787/slot_sweepere",
+    "status": "Completed",
+    "year": 2025
+}
