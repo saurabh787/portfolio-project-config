@@ -11,6 +11,18 @@
         {
             "slug": "slot-sweeper",
             "file": "projects/slot_sweeper.json"
+        },
+        {
+            "slug": "topdown-car-fighting-game",
+            "file": "projects/top_down_2d_car_fighting.json"
+        },
+        {
+            "slug": "path-finder-game",
+            "file": "projects/path_finder_2D.json"
+        },
+        {
+            "slug": "dynamic-blog-platform",
+            "file": "projects/dynamic_blog.json"
         }
     ]
 }
