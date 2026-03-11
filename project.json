@@ -3,6 +3,10 @@
         {
             "slug": "football_game",
             "file": "projects/football-game.json"
+        },
+        {
+            "slug": "multiplayer-game-framework",
+            "file": "projects/multi_player_game_server.json"
         }
     ]
 }

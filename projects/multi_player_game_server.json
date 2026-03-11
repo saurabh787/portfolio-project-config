@@ -1,0 +1,27 @@
+{
+    "title": "Multiplayer Game Server Framework",
+    "slug": "multiplayer-game-framework",
+    "shortDescription": "A backend framework that helps developers easily build real-time multiplayer game servers.",
+    "fullDescription": "This project is a multiplayer game server framework designed to simplify the development of real-time multiplayer games. It provides built-in systems for room management, player connections, event handling, and real-time communication between clients and the server. Developers can quickly set up scalable game servers using simple APIs and modular architecture. The framework demonstrates my ability to design backend systems, manage concurrent connections, and build scalable infrastructure for multiplayer applications.",
+    "tech": [
+        "Node.js",
+        "WebSockets",
+        "JavaScript",
+        "Express.js",
+        "Real-time Networking",
+        "Event-driven Architecture"
+    ],
+    "category": "Backend Development",
+    "featured": true,
+    "order": 2,
+    "coverImage": "assets/multiplayer-cover.png",
+    "gallery": [
+        "assets/multiplayer-1.png",
+        "assets/multiplayer-2.png",
+        "assets/multiplayer-3.png"
+    ],
+    "liveUrl": "https://github.com/saurabh787/multiplayer_game_framework",
+    "githubUrl": "https://github.com/saurabh787/multiplayer_game_framework",
+    "status": "Completed",
+    "year": 2026
+}
